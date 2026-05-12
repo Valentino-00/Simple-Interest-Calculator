@@ -1,0 +1,6 @@
+LENOVO@Ale MINGW64 /c/mcino-Introduction-to-Git-and-GitHub/mcino-Introduction-to-Git-and-GitHub (bug-fix-revert)
+$ git branch
+* bug-fix-revert
+  bug-fix-typo
+  main
+
