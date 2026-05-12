@@ -1,0 +1,11 @@
+LENOVO@Ale MINGW64 /c/mcino-Introduction-to-Git-and-GitHub/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+LENOVO@Ale MINGW64 /c/mcino-Introduction-to-Git-and-GitHub/mcino-Introduction-to-Git-and-GitHub (main)
+$ git merge bug-fix-typo
+Updating ad95b0a..4ecfcda
+Fast-forward
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
