@@ -1,0 +1,12 @@
+$ curl -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+{
+  "id": 123456789,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Valentino-00/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "Valentino-00"
+  },
+  "fork": true
+}
