@@ -1,0 +1,14 @@
+$ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "title": "Bug fix typo",
+    "state": "closed",
+    "head": {
+      "label": "Valentino-00:bug-fix-typo"
+    },
+    "repository": {
+      "full_name": "Valentino-00/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+]
