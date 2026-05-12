@@ -1,0 +1,18 @@
+$ curl https://api.github.com/repos/Valentino-00/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "id": 987654321,
+    "state": "open",
+    "title": "Fix typo in README",
+    "head": {
+      "label": "Valentino-00:bug-fix-typo"
+    },
+    "base": {
+      "label": "main"
+    },
+    "repository": {
+      "full_name": "Valentino-00/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+]
